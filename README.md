@@ -27,14 +27,9 @@
 
 - 🌱 I’m currently learning Flutter
 
-- 📝 I regularly write articles on [https://www.cbartuk.com](https://cbartuk.com)
-
-- 💬 Ask me about **Reactjs & Nextjs**
-
 - 📫 How to reach me **devbartukilic@gmail.com**
 
 - 📄 Know about my experiences <a href="/Can-Bartu-Kilic-EN-Current-CV.pdf" target="blank">Resume</a>
-<br/>
 
 ---
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
