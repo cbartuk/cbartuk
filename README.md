@@ -13,12 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/SenatorMaul" target="blank"><img src="https://img.shields.io/twitter/follow/SenatorMaul?logo=twitter&style=for-the-badge" alt="senatormaul" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>About Me
+<picture><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
 
-<br></br>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>About Me
 
 ---
 
@@ -38,6 +35,8 @@
 
 - 📄 Know about my experiences <a href="/Can-Bartu-Kilic-EN-Current-CV.pdf" target="blank">Resume</a>
 <br/>
+
+---
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
