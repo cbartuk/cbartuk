@@ -18,6 +18,10 @@
 </a>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
 - 🔭 I’m currently working in <a href="https://www.scouthub.io" target="blank">Scouthub.io</a>
 
 - 🌱 I’m currently Working on Frontend(ReactJS)
