@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm <a href="https://cbartuk.com" target="blank">
-Can Bartu Kılıç</a></h1>
+<h3 align="center">
+  Welcome to SenatorMaul's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+SenatorMaul;Frontend+Dev;App+DevCrypto+Lover+%3C3"></a>
+</p>
+
+---
+<div align="center">
 <h3 align="center">A passionate Frontend and Mobile App developer from Istanbul Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbartuk&label=Profile%20views&color=0e75b6&style=flat" alt="senatormaul" /> </p>
