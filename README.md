@@ -18,7 +18,12 @@
 
 # About Me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 
+<<<<<<< HEAD
 - 🔭 I’m currently working in <a href="https://www.scouthub.io" target="blank">Scouthub.io</a>
+=======
+
+- 🔭 I’m currently working at <a href="https://www.scouthub.io" target="blank">Scouthub.io</a>
+>>>>>>> 545f43996759d80464a371be097cf74798107ef8
 
 - 🌱 I’m currently Working on Frontend(ReactJS)
 
