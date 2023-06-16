@@ -18,7 +18,7 @@
 
 # About Me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 
-- 🔭 I’m currently working at <a href="https://themindstone.com/" target="blank">The Mindstone Blockchain Labs</a> as a Freelancer.
+- 🔭 I’m currently working at <a href="https://themindstone.com/" target="_blank">The Mindstone Blockchain Labs</a> as a Freelancer.
 
 - 🌱 I’m currently Working on Frontend(ReactJS, VueJS)
 
