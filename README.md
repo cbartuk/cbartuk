@@ -50,35 +50,38 @@
 - 📫 How to reach me **devbartukilic@gmail.com**
 
   <div align="center">
-    <!-- &include_all_commits=true&count_private=true -->
-    <a href="https://github.com/cbartuk/">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=cbartuk&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-        width="375"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=cbartuk&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-        width="375"
-        alt="senatormaul"
-      />
-    </a>
-  </div>
-
-  <div align="center">
-    <!-- GitHub Trophies -->
+  <!-- GitHub Stats & Top Langs -->
+  <a href="https://github.com/cbartuk/">
     <img
-       src="https://github-profile-trophy.vercel.app/?username=cbartuk&theme=radical&no-frame=true&column=3"
-       alt="cbartuk's trophies"
+      src="https://github-readme-stats.vercel.app/api?username=cbartuk&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+      width="375"
+      alt="GitHub Stats"
     />
-
-    <!-- GitHub Activity Graph -->
-    <br />
     <img
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=cbartuk&theme=react-dark"
-      alt="cbartuk's Activity Graph"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=cbartuk&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+      width="375"
+      alt="Top Languages"
     />
+  </a>
+</div>
 
-  </div>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=cbartuk&theme=radical&no-frame=true&column=3"
+    width="375"
+    alt="GitHub Trophies"
+  />
+
+  <!-- GitHub Activity Graph -->
+
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cbartuk&theme=react-dark"
+    width="375"
+    alt="GitHub Activity Graph"
+  />
+
+</div>
 
 </div>
 
@@ -93,7 +96,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%00bcff.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
