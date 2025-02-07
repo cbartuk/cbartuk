@@ -31,7 +31,6 @@
   <picture align="right">
     <img
       align="right"
-      top="800"
       height="300"
       width="300"
       alt="GIF"
