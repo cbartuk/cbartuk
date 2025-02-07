@@ -33,7 +33,7 @@
       align="right"
       top="800"
       height="300"
-      width="400"
+      width="300"
       alt="GIF"
       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWprMW81ZGsxcHp5NG5iZGVhNTZhM3MwNnE5b3UzMGlnNGF5bmR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mABVVMBLRllLPiMYnZ/giphy.gif"
     >
