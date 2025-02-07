@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/SenatorMaul" target="blank"><img src="https://img.shields.io/twitter/follow/SenatorMaul?logo=twitter&style=for-the-badge" alt="senatormaul" /></a> </p>
 
-<picture><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
+<picture><img align="right" top="500" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
 
 <!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWprMW81ZGsxcHp5NG5iZGVhNTZhM3MwNnE5b3UzMGlnNGF5bmR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mABVVMBLRllLPiMYnZ/giphy.gif -->
 
