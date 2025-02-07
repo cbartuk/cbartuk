@@ -38,6 +38,25 @@
 </a>
 </div>
 
+<div align="center">
+
+  <!-- GitHub Streak Stats -->
+
+<img
+       src="https://github-readme-streak-stats.herokuapp.com?user=cbartuk&theme=tokyonight"
+       alt="cbartuk's streak stats"
+       width="420"
+  />
+
+  <!-- GitHub Trophies -->
+
+<img
+       src="https://github-profile-trophy.vercel.app/?username=cbartuk&theme=radical&no-frame=true&column=3"
+       alt="cbartuk's trophies"
+  />
+
+</div>
+
 ---
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -64,8 +83,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/SenatorMaul">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="/Can-Bartu-Kilic-EN-Current-CV.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="/Can-Bartu-Kılıç-September.pdf">
+					<img src="https://icons8.com/icon/lS99tYkKQlq4/profile" ></a>
       </div>
 
 </p>
