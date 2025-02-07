@@ -62,17 +62,12 @@
       width="375"
       alt="Top Languages"
     />
-  </a>
-</div>
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img
+    <img
     src="https://github-profile-trophy.vercel.app/?username=cbartuk&theme=radical&no-frame=true&column=3"
     width="375"
     alt="GitHub Trophies"
   />
-
+  </a>
 </div>
 
 </div>
