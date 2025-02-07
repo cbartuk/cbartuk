@@ -16,7 +16,7 @@
 
 <picture><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWprMW81ZGsxcHp5NG5iZGVhNTZhM3MwNnE5b3UzMGlnNGF5bmR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mABVVMBLRllLPiMYnZ/giphy.gif"></picture>
 
-# About Me <img src = "" width = 50px>
+# About Me 🚀
 
 - 🔭 I’m currently working at <a href="https://distronia.com/" target="_blank">Distronia</a> as a FrontEnd Engineer.
 
