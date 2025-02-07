@@ -67,6 +67,11 @@
     width="375"
     alt="GitHub Trophies"
   />
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cbartuk&theme=react-dark"
+    width="375"
+    alt="GitHub Activity Graph"
+  />
   </a>
 </div>
 
