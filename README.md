@@ -63,13 +63,13 @@
       alt="Top Languages"
     />
     <img
-    src="https://github-profile-trophy.vercel.app/?username=cbartuk&theme=radical&no-frame=true&column=3"
+    src="https://github-profile-trophy.vercel.app/?username=cbartuk&theme=radical&no-frame=true&column=2"
     width="375"
     alt="GitHub Trophies"
   />
 <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=cbartuk&theme=react-dark"
-    width="375"
+    width="400"
     alt="GitHub Activity Graph"
   />
   </a>
