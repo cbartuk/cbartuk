@@ -78,7 +78,7 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/SenatorMaul">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="/Can-Bartu-Kılıç-September.pdf">
-					<img src="https://img.icons8.com/?id=lS99tYkKQlq4&format=png&color=000000" ></a>
+					<img src="https://img.icons8.com/?size=50&id=Ihw7rsNxtanQ&format=png&color=000000" ></a>
       </div>
 
 </p>
