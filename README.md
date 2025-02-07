@@ -28,7 +28,7 @@
     </a>
   </p>
 
-  <picture>
+  <picture align="right">
     <img
       align="right"
       top="800"
