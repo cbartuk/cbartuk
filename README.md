@@ -65,6 +65,7 @@
     <img
     src="https://github-profile-trophy.vercel.app/?username=cbartuk&theme=radical&no-frame=true&column=2"
     width="375"
+    height="300"
     alt="GitHub Trophies"
   />
 <img
