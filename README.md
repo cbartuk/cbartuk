@@ -70,7 +70,7 @@
   />
 <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=cbartuk&theme=react-dark"
-    width="400"
+    width="300"
     alt="GitHub Activity Graph"
   />
   </a>
